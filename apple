@@ -1,1 +1,1 @@
-"fruit" | Out-File "$env:USERPROFILE\Desktop\kiwi.txt"
+powershell.exe -Command "\"challenge1\" | Out-File \"$env:USERPROFILE\Desktop\challenge.txt\""
